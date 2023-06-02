@@ -6,3 +6,7 @@
 	path = camera_engine_rkisp
 	url = https://github.com/jeffyCN/mirrors
 	branch = camera_engine_rkisp
+[submodule "gstreamer-rockchip"]
+	path = gstreamer-rockchip
+	url = https://github.com/jeffyCN/mirrors
+	branch = gstreamer-rockchip
