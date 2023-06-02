@@ -10,3 +10,11 @@
 	path = gstreamer-rockchip
 	url = https://github.com/jeffyCN/mirrors
 	branch = gstreamer-rockchip
+[submodule "libmali"]
+	path = libmali
+	url = https://github.com/jeffyCN/mirrors
+	branch = libmali
+[submodule "linux-rga"]
+	path = linux-rga
+	url = https://github.com/jeffyCN/mirrors
+	branch = linux-rga
