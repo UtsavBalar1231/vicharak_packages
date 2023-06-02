@@ -2,3 +2,7 @@
 	path = alsa-config
 	url = https://github.com/JeffyCN/mirrors
 	branch = alsa-config
+[submodule "camera_engine_rkisp"]
+	path = camera_engine_rkisp
+	url = https://github.com/jeffyCN/mirrors
+	branch = camera_engine_rkisp
