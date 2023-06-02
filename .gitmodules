@@ -1,0 +1,4 @@
+[submodule "alsa-config"]
+	path = alsa-config
+	url = https://github.com/JeffyCN/mirrors
+	branch = alsa-config
